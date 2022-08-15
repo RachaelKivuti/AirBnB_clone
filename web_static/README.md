@@ -1,6 +1,6 @@
 <h1> 0x01. AirBnB clone - Web static </h1>
 <h2> Description </h2>
-<p> This project is part of the Holberton School curriculum AirBnB clone. Its goal is to create a static webpage and to understand the basics of HTML and CSS.</p>
+<p> This project is part of the ALX School curriculum AirBnB clone. Its goal is to create a static webpage and to understand the basics of HTML and CSS.</p>
 <h2> Table of Content </h2>
 
 <strong>1. Index files</strong> 
